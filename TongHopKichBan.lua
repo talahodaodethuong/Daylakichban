@@ -5,6 +5,12 @@ local AllScript = {
         ))()
     end,
 
+    [83645629621104] = function()
+        loadstring(game:HttpGet(
+            "https://raw.githubusercontent.com/talahodaodethuong/Daylakichban/refs/heads/main/FSK-Free.lua"
+        ))()
+    end,
+
     [126509999114328] = function()
         loadstring(game:HttpGet(
             "https://raw.githubusercontent.com/talahodaodethuong/Daylakichban/refs/heads/main/99NITF.lua"
